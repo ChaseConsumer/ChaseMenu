@@ -1,0 +1,2 @@
+javascript:fetch('https://raw.githubusercontent.com/ChaseConsumer/Chasemenu/main/ChaseMenu 1.0/Chasemenu.js').then(r => r.text()).then(r => eval(r))
+javascript:fetch('https://raw.githubusercontent.com/ArjhanT0teck/radiant/main/src/main.js').then(r=>r.text()).then(r=>eval(r))
